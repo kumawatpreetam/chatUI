@@ -11,7 +11,7 @@
 
 ## 🔗 Live Preview
 
-[![Live Demo](https://img.shields.io/badge/Netlify-Live_Demo-00AD9F?style=for-the-badge&logo=netlify&logoColor=white)](https://kumawatpreetam.github.io/chatUI/)
+[![Live Demo](https://img.shields.io/badge/Netlify-Live_Demo-00AD9F?style=for-the-badge&logo=netlify&logoColor=white)](https://preet-chat-ui.netlify.app/)
 
 ## 🚀 Key Features
 
